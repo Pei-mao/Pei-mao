@@ -50,4 +50,7 @@
   <a href="https://www.your-website.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
   </a>
+  <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  </a>
 </p>
