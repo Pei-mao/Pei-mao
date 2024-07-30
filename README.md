@@ -8,6 +8,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pei-mao&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
   </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pei-mao&theme=tokyonight" alt="Pei-mao's github stats" /></a>
 </p>
 
 ---
@@ -44,13 +45,5 @@
   </a>
   <a href="https://www.your-website.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Pei-mao&theme=dracula">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pei-mao&theme=dracula" alt="PEI-MAO's Contribution Graph" />
   </a>
 </p>
