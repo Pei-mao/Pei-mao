@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pei-mao</h1>
+<h1 align="center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  , I'm Pei-mao
+</h1>
 <h3 align="center">A dedicated AI developer with a deep passion for innovation, hailing from Taiwan.</h3>
 
 <p align="center">
