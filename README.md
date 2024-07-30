@@ -38,7 +38,7 @@
   <a href="https://twitter.com/your-twitter-handle" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="32" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jacky_51@kimo.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="32" />
   </a>
   <a href="https://www.your-website.com" target="blank">
