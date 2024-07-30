@@ -48,7 +48,6 @@
 
 ---
 
-<h2 align="center">PEI-MAO's Contribution Graph</h2>
 <p align="center">
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=Pei-mao&theme=dracula">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pei-mao&theme=dracula" alt="PEI-MAO's Contribution Graph" />
