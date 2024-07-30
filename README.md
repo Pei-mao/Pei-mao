@@ -53,6 +53,7 @@
 </p>
 
 ---
+## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -63,4 +64,12 @@
   <a href="https://github.com/Depth-Semantic-Aware-Image-Generation/TBrain_Orchid-Classification-Competition"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Depth-Semantic-Aware-Image-Generation&repo=TBrain_Orchid-Classification-Competition&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/Pei-mao/RAG-product-recommendation"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pei-mao&repo=RAG-product-recommendation&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/Pei-mao/Cuda-ErodeAndDilate"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Pei-mao&repo=Cuda-ErodeAndDilate&theme=prussian&hide_border=true"></a>
+</p>
+
+---
+## 📕 Top projects I've contributed to
+
+<!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+<p align="left">
+  <a href="https://github.com/htylab/tigerbx"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=htylab&repo=tigerbx&theme=prussian&hide_border=true"></a>
 </p>
