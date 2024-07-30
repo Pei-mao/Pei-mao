@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="32" />
   </a>
-  <a href="[https://twitter.com/your-twitter-handle](https://www.instagram.com/peimao_sun)" target="blank">
+  <a href="https://www.instagram.com/peimao_sun" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Twitter" height="32" />
   </a>
   <a href="mailto:jacky_51@kimo.com">
