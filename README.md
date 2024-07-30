@@ -53,12 +53,10 @@
 </p>
 
 ---
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<div align="center">
-  <a href="https://github.com/Pei-mao#gh-light-mode-only">
-    <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Pei-mao&repo=Pei-mao&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/Pei-mao#gh-dark-mode-only">
-    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Pei-mao&repo=Pei-mao&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  </a>
-</div>
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/Depth-Semantic-Aware-Image-Generation/Depth-and-Semantic-Aware-Image-Generation"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Depth-Semantic-Aware-Image-Generation&repo=Depth-and-Semantic-Aware-Image-Generation&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Depth-Semantic-Aware-Image-Generation/Depth-and-Semantic-Aware-Image-Generation"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Depth-Semantic-Aware-Image-Generation&repo=Kaggle_Happywhale-Whale-and-Dolphin-Identification&theme=prussian&hide_border=true"></a>
+</p>
