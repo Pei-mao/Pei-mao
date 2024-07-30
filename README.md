@@ -50,7 +50,15 @@
   <a href="https://www.your-website.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
   </a>
-  <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  </a>
 </p>
+
+---
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<div align="center">
+  <a href="https://github.com/Pei-mao#gh-light-mode-only">
+    <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Pei-mao&repo=Pei-mao&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/Pei-mao#gh-dark-mode-only">
+    <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Pei-mao&repo=Pei-mao&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  </a>
+</div>
