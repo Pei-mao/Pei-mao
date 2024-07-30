@@ -54,3 +54,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pei-mao&theme=dracula" alt="PEI-MAO's Contribution Graph" />
   </a>
 </p>
+
+<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
