@@ -16,43 +16,6 @@
 </p>
 
 ---
-
-<h2 align="center">Skills</h2>
-<p align="center">
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecolab.svg"></code>
-</p>
-
----
-
-<h2 align="center">Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="32" />
-  </a>
-  <a href="https://www.instagram.com/peimao_sun" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Twitter" height="32" />
-  </a>
-  <a href="mailto:jacky_51@kimo.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="32" />
-  </a>
-  <a href="https://www.your-website.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
-  </a>
-</p>
-
----
 ## 📘 My top open source projects
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -72,4 +35,39 @@
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
   <a href="https://github.com/htylab/tigerbx"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=htylab&repo=tigerbx&theme=prussian&hide_border=true"></a>
+</p>
+
+---
+<h2 align="center">Skills</h2>
+<p align="center">
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
+  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecolab.svg"></code>
+</p>
+
+---
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="32" />
+  </a>
+  <a href="https://www.instagram.com/peimao_sun" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Twitter" height="32" />
+  </a>
+  <a href="mailto:jacky_51@kimo.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="32" />
+  </a>
+  <a href="https://www.your-website.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
+  </a>
 </p>
