@@ -54,7 +54,7 @@
   <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
   <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecolab.svg"></code>
 </p>
-
+ 
 ---
 <h2 align="center">Connect with me</h2>
 <p align="center">
