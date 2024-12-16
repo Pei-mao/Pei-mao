@@ -7,12 +7,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pei-mao&count_private=true&show_icons=true&theme=radical&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pei-mao&count_private=true&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pei-mao&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pei-mao&langs_count=8&theme=radical&count_private=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=250&cache_seconds=1800" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pei-mao&theme=tokyonight" alt="Pei-mao's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pei-mao&theme=tokyonight&cache_seconds=1800" alt="Pei-mao's github stats" /></a>
 </p>
 
 ---
