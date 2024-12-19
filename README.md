@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   , I'm Pei-mao
 </h1>
-<h3 align="center">A dedicated AI developer with a deep passion for innovation, hailing from Taiwan.</h3>
+<h3 align="center">A passionate AI developer from Taiwan, driven by innovation and a growing enthusiasm for DevOps, blending cutting-edge technology with efficient system integration to create impactful solutions.</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
