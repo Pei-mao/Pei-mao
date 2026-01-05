@@ -61,15 +61,15 @@
 <h2 align="center">Connect with me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="32" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
   <a href="https://www.instagram.com/peimao_sun" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Twitter" height="32" />
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Twitter" height="32" />
   </a>
   <a href="mailto:jacky_51@kimo.com">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="32" />
+    <img align="center" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" height="32" />
   </a>
   <a href="https://www.your-website.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetexplorer.svg" alt="Website" height="32" />
+    <img align="center" src="https://img.shields.io/badge/-Website-555555?style=flat&logo=googlechrome&logoColor=white" alt="Website" height="32" />
   </a>
 </p>
