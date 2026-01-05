@@ -41,20 +41,21 @@
 ---
 <h2 align="center">Skills</h2>
 <p align="center">
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/macos.svg"></code>
-  <code><img height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecolab.svg"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/python/3776AB"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/pytorch/EE4C2C"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/tensorflow/FF6F00"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/c/A8B9CC"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/cplusplus/00599C"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/mysql/4479A1"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/postgresql/4169E1"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/github/181717"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/git/F05032"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/docker/2496ED"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/kubernetes/326ce5"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/linux/FCC624"></code>
+  <code><img height="32" src="https://cdn.simpleicons.org/macos/000000"></code>
 </p>
+
 
 ---
 <h2 align="center">Connect with me</h2>
