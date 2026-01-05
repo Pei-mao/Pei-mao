@@ -60,7 +60,7 @@
 ---
 <h2 align="center">Connect with me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/%E5%9F%B9%E7%91%81-%E5%AD%AB-941b962aa" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
   <a href="https://www.instagram.com/peimao_sun" target="blank">
